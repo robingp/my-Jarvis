@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="accessibility_desc">Lets JARVIS go back, scroll, and read the screen when you ask it to. Runs only on your phone.</string>
+</resources>
